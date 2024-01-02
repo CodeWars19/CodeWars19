@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siddhant</h1>
-<h3 align="center">A backend developer passionate about machine learning from America studying at the University of Pennsylvania</h3>
+<h1 align="center">Hi, I'm Sid </h1>
+<h3 align="center">I'm a backend-focused developer passionate about AI/ML</h3>
 
 - 🌱 I’m currently learning **React, React Native**
 
