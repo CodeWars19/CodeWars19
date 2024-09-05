@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sid </h1>
-<h3 align="center">I'm a backend-focused developer passionate about AI/ML</h3>
+<h3 align="center">I'm a fullstack developer passionate about AI/ML</h3>
 
 - 🌱 I’m currently working on **HealthCoin**
 
